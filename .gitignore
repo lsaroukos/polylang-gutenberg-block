@@ -1,0 +1,45 @@
+/node_modules/
+/_node_modules/
+/.vagrant/
+/.sass-cache/
+/.cache
+dist
+
+# IDE
+/.idea/
+/.vscode/
+
+# Composer
+/package-lock.json
+/composer.lock
+vendor
+
+# Logs and databases
+/*.sql
+/*.sqlite
+/*.log
+/*.log.*
+/*.logs
+/*.logs.*
+/.logs/theme.log
+
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+/notes.txt
+
+node
+
+#docker
+/uploads.ini
+docker-compose.yml
+
+.build-scripts
+.babelrc

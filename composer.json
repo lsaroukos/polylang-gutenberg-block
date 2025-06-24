@@ -1,0 +1,16 @@
+{
+    "name": "lsaroukos/pll-gutneberg-block",
+    "description": "Gutneberg block that allows language definition of its content",
+    "autoload": {
+        "psr-4": {
+            "PLL_GTNB\\": "includes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lefteris Saroukos",
+            "email": "info@lsaroukos.gr"
+        }
+    ],
+    "require":{}
+}
